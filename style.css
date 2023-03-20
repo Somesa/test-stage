@@ -1,0 +1,9 @@
+#header .gauche {
+	font-family: 'Manrope', sans-serif;
+	margin-top: 67px;
+}
+
+#header .droite img {
+	display: block;
+	margin-left: auto;
+}
